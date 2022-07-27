@@ -6,14 +6,14 @@
                  "imagem": "TODO"
               },
      "mandante":{
-                  "nome": "Brasil"
-                  "forca": 5
+                  "nome": "Brasil",
+                  "forca": 5,
                   "imagem": "https://www.bandeirasnacionais.com/data/flags/w702/br.webp"
                 }
     
      "visitante":{
-                  "nome": "Argentina"
-                  "forca": 4
+                  "nome": "Argentina",
+                  "forca": 4,
                   "imagem": "https://www.bandeirasnacionais.com/data/flags/w702/ar.webp"
                 }
   }  
