@@ -16,5 +16,41 @@
                   "forca": 4,
                   "imagem": "https://www.bandeirasnacionais.com/data/flags/w702/ar.webp"
                 }
-  }  
+  },
+  {
+     "descricao": "Eliminatórias Copa 2022",
+     "local": {
+                 "nome": "Engenhão",
+                 "imagem": "TODO"
+              },
+     "mandante":{
+                  "nome": "Paragaui",
+                  "forca": 3,
+                  "imagem": "https://www.bandeirasnacionais.com/data/flags/w702/py.webp"
+                },
+    
+     "visitante":{
+                  "nome": "Paquistão",
+                  "forca": 4,
+                  "imagem": "https://www.bandeirasnacionais.com/data/flags/w702/pk.webp"
+                }
+  },
+  {
+     "descricao": "Eliminatórias Copa 2022",
+     "local": {
+                 "nome": "Estádio do Palmeiras",
+                 "imagem": "TODO"
+              },
+     "mandante":{
+                  "nome": "Holanda",
+                  "forca": 4,
+                  "imagem": "https://www.bandeirasnacionais.com/data/flags/w702/nl.webp"
+                },
+    
+     "visitante":{
+                  "nome": "Japão",
+                  "forca": 2,
+                  "imagem": "https://www.bandeirasnacionais.com/data/flags/w702/jp.webp"
+                }
+  } 
 ]
