@@ -3,7 +3,7 @@
      "descricao": "Eliminatórias Copa 2022",
      "local": {
                  "nome": "Maracanã",
-                 "imagem": "TODO"
+                 "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Maracana_2022.jpg/1200px-Maracana_2022.jpg"
               },
      "mandante":{
                   "nome": "Brasil",
@@ -21,7 +21,7 @@
      "descricao": "Eliminatórias Copa 2022",
      "local": {
                  "nome": "Engenhão",
-                 "imagem": "TODO"
+                 "imagem": "https://placar.abril.com.br/wp-content/uploads/2021/09/esporte-olimpiada-rio-instalacoes-20160726-012.jpg"
               },
      "mandante":{
                   "nome": "Paragaui",
@@ -39,7 +39,7 @@
      "descricao": "Eliminatórias Copa 2022",
      "local": {
                  "nome": "Estádio do Palmeiras",
-                 "imagem": "TODO"
+                 "imagem": "http://s2.glbimg.com/04QV3sNuRHBb24a-9DJNnLJYNlu1up1w4I-Y8NB4vf-kS8Qqn8MUkcXaasWEYwV-/e.glbimg.com/og/ed/f/original/2013/04/29/nova_arena_allianz.jpg"
               },
      "mandante":{
                   "nome": "Holanda",
